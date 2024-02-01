@@ -1,2 +1,2 @@
 # decaltest
-testing for astron 98 decal
+repo for astron 98 decal
